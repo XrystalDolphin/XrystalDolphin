@@ -33,5 +33,5 @@ a quiet Friday night with clean Go and a good playlist. ☁️⚡
 
 Follow me on：
 <a href="https://xhslink.com/m/9wUbLGmyDCf" target="_blank"><img src="https://img.shields.io/badge/小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" /></a>
-<a href="https://github.com/XrystalDolphin" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://b23.tv/I0FqmDU" target="_blank"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
+<a href="https://github.com/XrystalDolphin" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
