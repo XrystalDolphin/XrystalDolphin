@@ -19,8 +19,7 @@
   <img src="https://img.shields.io/badge/System%20Architecture-2C3E6B?style=for-the-badge&logo=serverless&logoColor=white"/>
 </p>
 
-Full-stack dev, system architect, cloud tinkerer —
-I do think I speak both human and machine. 🐬
+Full-stack dev, system architect, cloud tinkerer
 
 I like having my hands in everything: distributed systems, frontend polish,
 cloud infra, team chaos. If it ships, I want to understand how.
