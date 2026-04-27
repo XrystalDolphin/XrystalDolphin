@@ -19,16 +19,20 @@
   <img src="https://img.shields.io/badge/System%20Architecture-2C3E6B?style=for-the-badge&logo=serverless&logoColor=white"/>
 </p>
 
-Full-stack dev, system architect, cloud tinkerer
+Full-stack developer · System architect · Cloud engineer
 
-I like having my hands in everything: distributed systems, frontend polish,
-cloud infra, team chaos. If it ships, I want to understand how.
+Focused on end-to-end product engineering — across distributed
+systems, frontend craftsmanship, cloud infrastructure, and engineering
+operations. Driven by how a system actually ships and runs in production,
+not just how it looks in a demo.
 
-Lately I've been deep in RAG and NLP — trying to make AI useful
-in the real world, not just impressive in a 15-minute demo.
+Currently working on RAG and NLP, with an emphasis on bringing large
+language models into real-world business systems — where reliability,
+latency, and operational cost matter as much as raw model quality.
 
-Led teams, built things from scratch, and somehow still enjoy
-a quiet Friday night with clean Go and a good playlist. ☁️⚡
+Multiple years of leading engineering teams and shipping products from
+zero to one, with a consistent focus on engineering rigor across
+architecture, technical decisions, and team collaboration.
 
 Follow me on：
 <a href="https://xhslink.com/m/9wUbLGmyDCf" target="_blank"><img src="https://img.shields.io/badge/小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" /></a>
